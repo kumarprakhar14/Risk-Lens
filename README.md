@@ -17,7 +17,7 @@ Detect complex financial crime patterns with intelligent graph-based learning.
 
 ## 🚀 Overview
 
-**FinSentinel** is a **Graph Neural Network (GNN)-powered AML detection system** designed for real-time financial transaction monitoring.
+**RiskLens** is a **Graph Neural Network (GNN)-powered AML detection system** designed for real-time financial transaction monitoring.
 
 Unlike traditional rule-based systems, it captures **hidden relationships and transaction patterns** using graph intelligence.
 
