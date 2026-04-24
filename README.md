@@ -1,11 +1,3 @@
----
-license: mit
-datasets:
-- Ymak7/transactional-data
-language:
-- en
----
-
 <div align="center">
 
 # 🕵️ RiskLens: AML Compliance Detection 🚨
@@ -144,6 +136,14 @@ For collaborations or queries:
 ---
 
 <div align="center">
+
+---
+license: mit
+datasets:
+- Ymak7/transactional-data
+language:
+- en
+---
 
 **Built with ❤️ for smarter financial security**
 
