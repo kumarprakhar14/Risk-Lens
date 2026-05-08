@@ -139,10 +139,8 @@ For collaborations or queries:
 
 ---
 license: mit
-datasets:
-- Ymak7/transactional-data
-language:
-- en
+- datasets:Ymak7/transactional-data
+- language: en
 ---
 
 **Built with ❤️ for smarter financial security**
