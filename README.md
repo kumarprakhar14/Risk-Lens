@@ -134,15 +134,9 @@ For collaborations or queries:
 📧 **kumarprakharkp143@gmail.com**
 
 ---
-
-<div align="center">
-
----
-license: mit
+- license: mit
 - datasets:Ymak7/transactional-data
 - language: en
 ---
 
 **Built with ❤️ for smarter financial security**
-
-</div>
